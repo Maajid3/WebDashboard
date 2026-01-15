@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import './FilterBar.css';
 import calenderIcon from "../assets/calenderIcon.svg";
 import calenderIcon2 from "../assets/calenderIcon2.svg";

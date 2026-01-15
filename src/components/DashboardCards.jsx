@@ -1,4 +1,3 @@
-import React from 'react';
 import './dashboard-card.css';
 
 const DashboardCards = () => {

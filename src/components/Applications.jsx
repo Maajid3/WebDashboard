@@ -1,4 +1,3 @@
-import React from "react";
 import "./applications.css";
 import resizeIcon from "../assets/resize.svg";
 import filterIcon from "../assets/filter.svg";
