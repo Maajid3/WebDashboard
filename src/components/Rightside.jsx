@@ -3,7 +3,7 @@ import eventImg from "../assets/event.png";
 import Contact from "./Contactpage";
 import newsIcon from "../assets/news.svg";
 import slideIcon from "../assets/slide.svg";
-import pageSlide from "../assets/pageSlide.svg"
+import pageSlide from "../assets/pageslide.svg";
 
 export default function Rightside() {
   return (
@@ -25,7 +25,7 @@ export default function Rightside() {
             </p>
           </div>
         </div>
-          <img src={slideIcon} alt="slide" />
+        <img src={slideIcon} alt="slide" />
         <div className="dot-nav">
           <span className="dot active"></span>
           <span className="dot"></span>
