@@ -31,7 +31,6 @@ const applicationsData = [
     pending: "1 Day",
     date: "12 Dec 2022",
   },
-  // Add more rows as needed
 ];
 
 export default function ApplicationsTable() {
