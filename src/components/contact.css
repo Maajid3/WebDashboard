@@ -1,0 +1,79 @@
+.contact-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.contact-title {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #3B3B3B;
+  margin-bottom: 4px;
+}
+
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.contact-card {
+  background: #FFFFFF;
+  border: 1px solid #EBEBEB;
+  border-radius: 12px;
+  overflow: hidden; 
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.02);
+}
+
+.contact-top-section {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  gap: 16px;
+}
+
+.userprofile img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.user-details {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.user-name {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: #226CF5; 
+  margin: 0;
+}
+
+.user-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #3B3B3B;
+}
+
+.separator {
+  color: #DBDBDB;
+}
+
+.contact-email-section {
+  background-color: #F8FAFC;
+  text-align: center;
+  border-top: 1px solid #EBEBEB;
+}
+
+.contact-email-section span {
+  font-size: 14px;
+  color: #3B3B3B;
+  font-weight: 400;
+}

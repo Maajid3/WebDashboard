@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  background: #f7f8f9;
+  font-family: "DM Sans", sans-serif;
+  scroll-behavior: smooth;
+}
